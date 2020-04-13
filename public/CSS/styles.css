@@ -1,0 +1,36 @@
+body{
+  background-color: #4d4646;
+  text-align: center;
+  padding: 50px 430px;
+  line-height: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+h2{
+  background-color: #5b5656;
+  color: white;
+  margin-bottom: 60px;
+  border-radius: 25px;
+border: 2px solid white;
+padding: 10px;
+
+}
+.divclass{
+  padding:0px 20px;
+}
+hr{
+  color: #4d4646;
+}
+.newbtn{
+  border-radius: 10px;
+}
+
+#formclass{
+  border-radius: 25px;
+border: 2px solid white;
+
+  padding: 50px 0px;
+  margin-bottom: 70px;
+  background-color: #5b5656;
+  color: white;
+  line-height: 25px;
+}
