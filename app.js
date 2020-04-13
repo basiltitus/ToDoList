@@ -20,9 +20,9 @@ app.post("/",function(req,res){
    var item=req.body.newitem;
    if(req.body.newitem!="")
    {items.push(item);
-  console.log(item);
+  console.log(item);}
   res.redirect("/");
-}});
+});
 
 app.listen(process.env.PORT||3000,function(){
   console.log("Listening to port 3000");
